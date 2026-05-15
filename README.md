@@ -1,2 +1,2 @@
 # feature-phone-fw-dumps
-the sc6531 flash is a goldmine.
+Reconstructed firmware of the E-STAR ROCK with SC6531 cpu
